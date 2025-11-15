@@ -9,7 +9,7 @@
     - Flutter version 3.27.3 
 
 Use FVM for better flutter sdk management :
-[FVM (Flutter Version Management) : Manage multiple Flutter SDK versions](https://marketplace.visualstudio.com/items?itemName=innwin.i18n-arb-editor)
+[FVM (Flutter Version Management) : Manage multiple Flutter SDK versions](https://fvm.app/)
 
 ## Project Structure
 
